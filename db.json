@@ -1,45 +1,14 @@
-      {
-          "phaseID": 1,
-          "title": "Warm Up",
-          "description": "Brief stretches before the main set.",
-          "numOfSteps": 6,
-          "targetTime": 6,
-          "steps": [
-            {
-              "stepID": 1,
-              "title": "Quad + Piriformis Walk",
-              "description": "Start standing then draw left foot up behind you, pulling toward your butt for a quad stretch. Release and step forward; switch legs. After 30 seconds, cradle right leg at ankle and knee, pulling up to chest. Release and step forward; switch legs. Repeat for 30 seconds.",
-              "numOfRepeats": 0,
-              "unitDistance": 0,
-              "unitSpeed": 0,
-              "minTargetTime": 0.5,
-              "maxTargetTime": 1,
-              "targetHR": "1",
-              "recoveryDuration": 0
-            },
-            {
-              "stepID": 2,
-              "title": "Hip Opener",
-              "description": "From standing, bend right knee and lift knee to hip level, then rotate the knee out to 90 degrees. (Place hand over knee to stabilize and guide if needed.) Bring leg back to front; lower foot, and switch sides. Repeat for 30 seconds.",
-              "numOfRepeats": 0,
-              "unitDistance": 0,
-              "unitSpeed": 0,
-              "minTargetTime": 0.5,
-              "maxTargetTime": 1,
-              "targetHR": "1",
-              "recoveryDuration": 0
-            },
-            {
-              "stepID": 3,
-              "title": "Arm Circles",
-              "description": "Stand with feet shoulder-width apart and lift arms out to shoulder height, palms down. Make small circles; after 30 seconds, switch direction. Continue for another 30 seconds.",
-              "numOfRepeats": 0,
-              "unitDistance": 0,
-              "unitSpeed": 0,
-              "minTargetTime": 0.5,
-              "maxTargetTime": 1,
-              "targetHR": "1",
-              "recoveryDuration": 0
-            },
-                ]
-    }
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
